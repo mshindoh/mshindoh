@@ -2,11 +2,12 @@
 
 **`3rd year in Computer Sicence at UBC`**
 
-🔭 I’m currently working on... my portfolio website, small projects on various topics, and a full-wtack web app.  
+🖥️ I’m currently working on... portfolio website, small projects on various topics, and a full-stack web app.  
 🌱 I’m currently learning... Software Development Cycle, Intermediate Algorithm Design, Computer Hardware and OS, Machine Learning.  
 🌿 Pronouns: She/Her/Hers.  
-<!-- ✍️ How to reach me: <a href="https://www.linkedin.com/in/mshindoh/" target=”_blank”>LinkedIn</a>.   -->
 ⚡ Fun fact: I play four musical instruments.  
+<!-- ✍️ How to reach me: <a href="https://www.linkedin.com/in/mshindoh/" target=”_blank”>LinkedIn</a>.   -->
+
 
 <!--
 **mshindoh/mshindoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
