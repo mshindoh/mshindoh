@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 ### Contact
 <a href="https://www.linkedin.com/in/mshindoh/" target="_blank">
-<img align="left" alt="github" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="linkrdin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
