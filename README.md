@@ -1,12 +1,21 @@
 # Mizuki Shindoh
 
-**`3rd year in Computer Sicence at UBC`**
+**`3rd year in Computer Sicence at UBC`** 
 
-🖥️ I’m currently working on... portfolio website, small projects on various topics, and a full-stack web app.  
-🌱 I’m currently learning... Software Development Cycle, Intermediate Algorithm Design, Computer Hardware and OS, Machine Learning.  
-🌿 Pronouns: She/Her/Hers.  
-⚡ Fun fact: I play four musical instruments.  
-<!-- ✍️ How to reach me: <a href="https://www.linkedin.com/in/mshindoh/" target=”_blank”>LinkedIn</a>.   -->
+🌿 Pronouns: She/Her/Hers
+
+🖥️ Working on... 
+- portfolio website
+- small projects on various topics
+- a full-stack web app   
+
+🌱 Learning... 
+- Software Development Cycle
+- Intermediate Algorithm Design
+- Computer Hardware and OS
+- Machine Learning    
+
+
 
 
 <!--
@@ -46,8 +55,14 @@ Here are some ideas to get you started:
 
 ---
 
-### Contact
-<a href="https://www.linkedin.com/in/mshindoh/" target="_blank">
+### Connect
+<!-- <a href="https://www.linkedin.com/in/mshindoh/" target="_blank">
 <img align="left" alt="linkrdin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+</a><br/> -->
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+<br/>
+
+<!-- ---
+### Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mshindoh&left_color=#2c3786&right_color=#ededf9) -->
 
