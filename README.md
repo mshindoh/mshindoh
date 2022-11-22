@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.linkedin.com/in/mshindoh/" target="_blank">
 <img align="left" alt="linkrdin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a><br/> -->
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mshindoh/)
 <br/>
 
 <!-- ---
