@@ -5,9 +5,9 @@
 🌿 Pronouns: She/Her/Hers
 
 🖥️ Working on... 
-- portfolio website
-- small projects on various topics
-- a full-stack web app   
+- Portfolio website
+- Small projects on various topics
+- Full-stack web app   
 
 🌱 Learning... 
 - Software Development Cycle
