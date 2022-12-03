@@ -8,6 +8,7 @@
 - Portfolio website
 - Small projects on various topics
 - Full-stack web app   
+- iOS app
 
 🌱 Learning... 
 - Software Development Cycle
