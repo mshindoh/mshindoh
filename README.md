@@ -11,9 +11,8 @@
 - iOS app
 
 🌱 Learning... 
-- Software Development Cycle
-- Intermediate Algorithm Design
-- Computer Hardware and OS
+- Software Development
+- Functional Programming
 - Machine Learning    
 
 
