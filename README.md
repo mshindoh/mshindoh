@@ -1,19 +1,17 @@
 # Mizuki Shindoh
 
-**`3rd year in Computer Sicence at UBC`** 
+**`4th year in Computer Sicence at UBC & AI Analyst Intern`** 
 
 🌿 Pronouns: She/Her/Hers
 
 🖥️ Working on... 
-- Portfolio website
+- AI in health care
 - Small projects on various topics
-- Full-stack web app   
+- Software engineeirng projects 
 
 🌱 Learning... 
 - Software Development
-- Functional Programming
-- Machine Learning    
-
+- Natural Language Processing
 
 
 
