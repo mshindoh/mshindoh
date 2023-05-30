@@ -1,6 +1,6 @@
 # Mizuki Shindoh
 
-**`4th year in Computer Sicence at UBC & AI Analyst Intern`** 
+**`Computer Sicence at UBC & AI Analyst Intern`** 
 
 🌿 Pronouns: She/Her/Hers
 
