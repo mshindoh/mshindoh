@@ -12,7 +12,8 @@
 
 🌱 Learning... 
 - Software Development
-- Natural Language Processing (TensorFlow, Keras, etc.)
+- Natural Language Processing
+- Deep learning (TensorFlow, Keras, etc.)
 
 
 
