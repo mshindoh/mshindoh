@@ -1,19 +1,19 @@
 # Mizuki Shindoh
 
-**`Computer Science at UBC & AI Analyst Intern`** <br>
+**`Computer Science at UBC & Machine Learning Intern`** <br>
 [Visit my website!](https://mshindoh.github.io/#)
 
 🌿 Pronouns: She/Her/Hers
 
 🖥️ Working on... 
 - AI/Natural Language Processing in Healthcare
-- Small projects on various topics
+- Small projects on various topics (Python, Web development, Machine Learning, etc.)
 - Software engineering projects 
 
 🌱 Learning... 
 - Software Development
 - Natural Language Processing
-- Deep learning (TensorFlow, Keras, etc.)
+- Deep learning (TensorFlow)
 
 
 
