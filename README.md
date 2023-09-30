@@ -1,6 +1,6 @@
 # Mizuki Shindoh
 
-**`Computer Science at UBC & Machine Learning Intern`** <br>
+**`Junior Software Engineer & Prev Machine Learning Intern`** <br>
 [Visit my website!](https://mshindoh.github.io/#)
 
 🌿 Pronouns: She/Her/Hers
