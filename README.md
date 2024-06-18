@@ -1,19 +1,17 @@
 # Mizuki Shindoh
 
-**`Junior Software Engineer & Prev AI Research Assistant`** <br>
+**`Junior Software Engineer & AI Research Assistant`** <br>
 [Visit my website!](https://mshindoh.github.io/#)
 
-🌿 Pronouns: She/Her/Hers
-
 🖥️ Working on... 
-- AI/Natural Language Processing in Healthcare
-- Small projects on various topics (Python, Web development, Machine Learning, etc.)
-- Software engineering projects 
+- Software engineering projects
+- Web dev projects
+- AI projects
 
-🌱 Learning... 
+🌱 Interests... 
 - Software Development
 - Natural Language Processing
-- Deep learning (TensorFlow)
+- AI & Technology in Healthcare
 
 
 
