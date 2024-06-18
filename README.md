@@ -1,6 +1,6 @@
 # Mizuki Shindoh
 
-**`Junior Software Engineer & Prev Machine Learning Intern`** <br>
+**`Junior Software Engineer & Prev AI Research Assistant`** <br>
 [Visit my website!](https://mshindoh.github.io/#)
 
 🌿 Pronouns: She/Her/Hers
