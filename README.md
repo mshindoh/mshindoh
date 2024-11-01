@@ -11,7 +11,13 @@
 🌱 Interests... 
 - Software Development
 - Natural Language Processing
+- AI Safety
 - AI & Technology in Healthcare
+
+🎓 Studying...
+- Parallel Computing
+- Natural Langauge Processing
+- Intelligent Systems
 
 
 
