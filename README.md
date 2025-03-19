@@ -1,12 +1,13 @@
 # Mizuki Shindoh
 
-**`Junior Software Engineer & AI Research in Healthcare`** <br>
-[Visit my website!](https://mshindoh.github.io/#)
+**`Software Developer & AI Research in Healthcare`** <br/>
+[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-8A2BE2)](https://mshindoh.github.io) <br/>
 
 🖥️ Working on... 
-- Software engineering projects
-- Web dev projects
-- AI projects
+- Software development
+- Web development
+- AI model development & data processing
+- Data visualization projects
 
 🌱 Interests... 
 - Software Development
@@ -14,27 +15,10 @@
 - AI Safety
 - AI & Technology in Healthcare
 
-🎓 Studying...
-- Parallel Computing
-- Natural Langauge Processing
-- Intelligent Systems
-
-
-
-<!--
-**mshindoh/mshindoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏞️ More interests...
+- Music
+- Calligraphy
+- Reading
 
 ---
 
@@ -49,6 +33,8 @@ Here are some ideas to get you started:
 <img align="left" alt="javascript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="typescript" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="nodejs" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="d3" width="25px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg"/>
 <img align="left" alt="mysql" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="github" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -58,15 +44,11 @@ Here are some ideas to get you started:
 
 ---
 
-### Connect
+### Connect!
 <!-- <a href="https://www.linkedin.com/in/mshindoh/" target="_blank">
 <img align="left" alt="linkrdin" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a><br/> -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mshindoh/)
 <br/>
-
-<!-- ---
-### Stats
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mshindoh&left_color=#2c3786&right_color=#ededf9) -->
 
