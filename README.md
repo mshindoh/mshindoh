@@ -1,6 +1,6 @@
 # Mizuki Shindoh
 
-**`Software Developer & AI Research in Healthcare`** <br/>
+**`Software Developer & AI Research`** <br/>
 [![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-8A2BE2)](https://mshindoh.github.io) <br/>
 
 🖥️ Working on... 
