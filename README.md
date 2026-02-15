@@ -1,5 +1,4 @@
 # Mizuki Shindoh
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-8A2BE2)](https://mshindoh.github.io) <br/>
 
 <img align="left" alt="python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="c" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -24,5 +23,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-origina
 </a><br/> -->
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mshindoh/)
-<br/>
 
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-8A2BE2)](https://mshindoh.github.io)
